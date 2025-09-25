@@ -1,3 +1,6 @@
 actions.log
 *.pyc
 __pycache__/
+*_forecast.json
+*.log
+.DS_Store
