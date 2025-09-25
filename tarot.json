@@ -1,0 +1,112 @@
+[
+  {
+    "name": "The Fool",
+    "keywords": ["new beginnings", "spontaneity", "trust", "leap of faith"],
+    "short_description": "The Fool represents fresh starts, innocence, and the willingness to step into the unknown. It encourages trusting the journey and embracing spontaneity, even when the path is uncertain. Upright, it suggests optimism and potential rather than recklessness."
+  },
+  {
+    "name": "The Magician",
+    "keywords": ["willpower", "manifestation", "skill", "resourcefulness"],
+    "short_description": "The Magician symbolizes focused intention and the ability to turn ideas into reality using available skills and tools. Upright, it indicates confidence, creativity, and the power to act decisively. It's a reminder that the resources you need are within reach."
+  },
+  {
+    "name": "The High Priestess",
+    "keywords": ["intuition", "mystery", "inner knowledge", "stillness"],
+    "short_description": "The High Priestess represents intuition, hidden knowledge, and the inner world. Upright, she advises listening to your inner voice and being patient with answers that unfold slowly. This card points to mystery, reflection, and subconscious wisdom."
+  },
+  {
+    "name": "The Empress",
+    "keywords": ["nurture", "abundance", "creativity", "fertility"],
+    "short_description": "The Empress embodies nurturing, abundance, and creative fertility. Upright, she suggests growth, comfort, and the flourishing of ideas, relationships, or projects. This card invites you to tend what you care about with warmth and generosity."
+  },
+  {
+    "name": "The Emperor",
+    "keywords": ["structure", "authority", "stability", "leadership"],
+    "short_description": "The Emperor stands for structure, discipline, and responsible leadership. Upright, he indicates practicality, order, and the ability to create long-lasting foundations. This card encourages clear boundaries and decisive action."
+  },
+  {
+    "name": "The Hierophant",
+    "keywords": ["tradition", "guidance", "learning", "conformity"],
+    "short_description": "The Hierophant represents tradition, formal learning, and spiritual or institutional guidance. Upright, it can indicate seeking wisdom through established systems or mentors. The card often points to shared values, rituals, or conventional advice."
+  },
+  {
+    "name": "The Lovers",
+    "keywords": ["relationships", "choices", "alignment", "union"],
+    "short_description": "The Lovers signify meaningful relationships, harmony, and important choices often tied to values. Upright, the card highlights authentic connection, mutual attraction, and decisions made from the heart. It also stresses integrity and alignment between desire and ethics."
+  },
+  {
+    "name": "The Chariot",
+    "keywords": ["willpower", "victory", "control", "determination"],
+    "short_description": "The Chariot symbolizes overcoming obstacles through focus, discipline, and confident action. Upright, it points to triumph achieved by mastering conflicting forces and maintaining direction. This card encourages perseverance and clear goals."
+  },
+  {
+    "name": "Strength",
+    "keywords": ["courage", "compassion", "inner strength", "self-control"],
+    "short_description": "Strength represents gentle courage, patience, and compassionate resilience. Upright, it suggests using inner calm and kindness to tame fears and impulses. The card emphasizes endurance and soft power rather than brute force."
+  },
+  {
+    "name": "The Hermit",
+    "keywords": ["solitude", "introspection", "wisdom", "seeking"],
+    "short_description": "The Hermit stands for retreat, reflection, and solitary seeking of truth. Upright, it encourages stepping back to gain perspective and inner guidance. This card signals a time for quiet learning and deepening wisdom."
+  },
+  {
+    "name": "Wheel of Fortune",
+    "keywords": ["cycles", "change", "fate", "turning point"],
+    "short_description": "The Wheel of Fortune marks cycles, shifts, and the movement of fate. Upright, it often indicates a change in circumstances—usually one that advances the story or opens new opportunities. The card reminds you that life is cyclical and change is natural."
+  },
+  {
+    "name": "Justice",
+    "keywords": ["fairness", "truth", "accountability", "balance"],
+    "short_description": "Justice represents fairness, cause and effect, and clear decision-making. Upright, it points to honest evaluation, legal matters, or the need to take responsibility. The card emphasizes balance, impartiality, and consequences aligned with actions."
+  },
+  {
+    "name": "The Hanged Man",
+    "keywords": ["surrender", "new perspective", "patience", "letting go"],
+    "short_description": "The Hanged Man suggests pausing, surrendering control, and seeing things from a new angle. Upright, it encourages embracing a temporary delay or sacrifice to gain insight and transformation. This card values stillness and perspective over immediate action."
+  },
+  {
+    "name": "Death",
+    "keywords": ["transformation", "ending", "rebirth", "release"],
+    "short_description": "Death signifies the end of a phase and the transformation that follows. Upright, it indicates necessary closure and the clearing away of what no longer serves to make room for renewal. The card is about profound change, not literal death."
+  },
+  {
+    "name": "Temperance",
+    "keywords": ["balance", "moderation", "integration", "harmony"],
+    "short_description": "Temperance represents blending opposites, moderation, and steady integration. Upright, it advises patience, measured action, and finding middle ground. This card encourages calm cooperation and thoughtful synthesis."
+  },
+  {
+    "name": "The Devil",
+    "keywords": ["attachment", "temptation", "materialism", "shadow"],
+    "short_description": "The Devil points to bondage created by fear, excess, or unhealthy attachments. Upright, it highlights where habits, obsessions, or material comforts control you. The card calls for awareness and the willingness to confront shadow patterns."
+  },
+  {
+    "name": "The Tower",
+    "keywords": ["upheaval", "sudden change", "revelation", "breakdown"],
+    "short_description": "The Tower signals sudden, often disruptive change that clears false structures. Upright, it indicates revelation, liberation from illusion, and necessary but sometimes shocking transformation. The card breaks what is unstable so that something more truthful can emerge."
+  },
+  {
+    "name": "The Star",
+    "keywords": ["hope", "healing", "inspiration", "renewal"],
+    "short_description": "The Star brings calm, hope, and spiritual renewal after difficulty. Upright, it suggests healing, guidance, and renewed faith in the future. This card encourages openness to inspiration and gentle recovery."
+  },
+  {
+    "name": "The Moon",
+    "keywords": ["illusion", "intuition", "dreams", "uncertainty"],
+    "short_description": "The Moon represents the realm of subconscious, dreams, and hidden influences. Upright, it points to uncertainty, intuition, and emotional fluctuation—inviting careful navigation of illusions. The card advises trusting inner signals while seeking clarity."
+  },
+  {
+    "name": "The Sun",
+    "keywords": ["joy", "clarity", "vitality", "success"],
+    "short_description": "The Sun symbolizes joy, clarity, and confident success. Upright, it indicates vitality, positive outcomes, and a period of personal growth and illumination. This card celebrates warmth, openness, and achievement."
+  },
+  {
+    "name": "Judgement",
+    "keywords": ["awakening", "evaluation", "rebirth", "calling"],
+    "short_description": "Judgement signals a moment of reckoning, awakening, or calling to a higher purpose. Upright, it suggests honest self-evaluation, forgiveness, and the chance for a fresh start. The card often brings clarity about past choices and a call to act in alignment."
+  },
+  {
+    "name": "The World",
+    "keywords": ["completion", "wholeness", "achievement", "integration"],
+    "short_description": "The World represents successful completion, integration, and fulfillment of a cycle. Upright, it indicates attainment, harmony, and readiness to begin a new phase with gained wisdom. This card celebrates closure and global perspective."
+  }
+]
