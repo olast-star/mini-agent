@@ -1,0 +1,5 @@
+[
+  {"id": 1, "type": "http_400", "message": "Bad request on API /users"},
+  {"id": 2, "type": "cpu_high", "message": "CPU usage 95% on server-12"},
+  {"id": 3, "type": "disk_full", "message": "Disk usage 99% on /dev/sda1"}
+]
